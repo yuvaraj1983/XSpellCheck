@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 const customDictionary = {
     teh: "the",
     wrok: "work",
-    for: "for",
+    fot: "for",
     exampl: "example"
 }
 
